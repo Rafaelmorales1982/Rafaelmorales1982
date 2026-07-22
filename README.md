@@ -17,8 +17,6 @@
 
 # 👨‍💻 Sobre mim
 
-# 👨‍💻 Sobre mim
-
 Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em constante evolução.
 
 - 🎓 **Origem:** Atuo na área de Tecnologia da Informação/Educação no Paraná, aliando comunicação, disciplina e trabalho em equipe.
