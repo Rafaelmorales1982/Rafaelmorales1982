@@ -17,11 +17,13 @@
 
 # 👨‍💻 Sobre mim
 
-Sou **Professor PSS de Tecnologia do Estado do Paraná**, apaixonado por tecnologia, programação e pelo impacto da educação digital.
+# 👨‍💻 Sobre mim
 
-Atualmente focado no estudo e desenvolvimento de aplicações web modernas, responsivas e escaláveis, unindo o **rigor da docência** com as **melhores práticas de código**.
+Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em constante evolução.
 
-Meu objetivo é conectar **educação e desenvolvimento de software**, criando soluções funcionais e compartilhando conhecimento com a comunidade.
+- 🎓 **Origem:** Atuo na área de Tecnologia da Informação/Educação no Paraná, aliando comunicação, disciplina e trabalho em equipe.
+- 💻 **Foco Atual:** Desenvolvimento Front-end / Full Stack (HTML, CSS, JavaScript, React, Node.js e SQL).
+- 🎯 **Meta Profissional:** Migrar/Avançar para o mercado de desenvolvimento de software, integrando o time de uma **empresa de tecnologia** para criar aplicações modernas, funcionais e de alto impacto.
 
 > 📊 *Indicadores da minha curva de aprendizado e evolução prática no desenvolvimento de software.*
 
@@ -122,7 +124,7 @@ Meu objetivo é conectar **educação e desenvolvimento de software**, criando s
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seu-email@gmail.com">
+<a href="mailto:rafaelmorconcursos@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
