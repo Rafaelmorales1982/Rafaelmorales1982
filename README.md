@@ -37,11 +37,15 @@ Meu objetivo é conectar **educação e desenvolvimento de software**, criando s
 
 ---
 
-# 🏆 Troféus do GitHub
+# 🏆 Conquistas do GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rafaelmorales1982&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="Troféus Rafael Morales"/>
+<a href="https://github.com/Rafaelmorales1982">
+  <img src="https://img.shields.io/badge/GitHub-Quickdraw-purple?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/GitHub-Pair_Extraordinaire-blue?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-orange?style=for-the-badge&logo=github" alt="Pull Shark" />
+</a>
 
 </div>
 
@@ -51,8 +55,9 @@ Meu objetivo é conectar **educação e desenvolvimento de software**, criando s
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Rafaelmorales1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmorales1982&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens mais Usadas"/>
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafaelmorales1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais"/>
+
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafaelmorales1982&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais Usadas"/>
 
 </div>
 
@@ -86,15 +91,7 @@ Meu objetivo é conectar **educação e desenvolvimento de software**, criando s
 
 ---
 
-# 🚀 Projetos em Destaque
 
-- 📱 [**Clone Instagram**](https://github.com/Rafaelmorales1982) — *Interface interativa simulando a rede social.*
-- 🎵 [**Spotify Clone**](https://github.com/Rafaelmorales1982) — *Player de música funcional com foco em JS.*
-- 🛒 [**E-commerce**](https://github.com/Rafaelmorales1982) — *Loja virtual responsiva com catálogo de produtos.*
-- 📊 [**Dashboard Administrativo**](https://github.com/Rafaelmorales1982) — *Painel de dados e gráficos.*
-- 🌐 [**Landing Pages Responsivas**](https://github.com/Rafaelmorales1982) — *Projetos voltados para UI/UX e design mobile-first.*
-- 📝 [**Sistema de Cadastro**](https://github.com/Rafaelmorales1982) — *Aplicação CRUD para gerenciamento de registros.*
-- 💼 [**Portfólio Profissional**](https://github.com/Rafaelmorales1982) — *Apresentação de projetos e habilidades.*
 
 ---
 
