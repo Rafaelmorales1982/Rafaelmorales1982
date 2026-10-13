@@ -69,7 +69,9 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 
 # 📈 Gráfico de Atividade
 
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Rafaelmorales1982&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rafaelmorales1982)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rafaelmorales1982&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
