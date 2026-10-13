@@ -100,7 +100,7 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 # 🎯 Objetivos de Aprendizado
 
 - ✅ HTML5 & CSS3 Avançado
-- ✅ Bootstrap / Grid & Flexbox
+- ✅ Tailwind / Grid & Flexbox
 - 🔄 JavaScript ES6+ & DOM
 - 🔄 Angular
 - 🔄 Java
