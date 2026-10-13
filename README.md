@@ -55,13 +55,7 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 
 # 📊 Estatísticas e Atividade
 
-<div align="center">
 
-<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rafaelmorales1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas Gerais"/>
-
-<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rafaelmorales1982&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais Usadas"/>
-
-</div>
 
 <br />
 
