@@ -32,7 +32,7 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,angular,spring,mysql,git,github,vscode,figma&perline=6" alt="Minhas Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,angular,java,spring,mysql,git,github,vscode,figma&perline=6" alt="Minhas Tecnologias"/>
 </p>
 
 </div>
