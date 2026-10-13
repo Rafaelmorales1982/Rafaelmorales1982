@@ -20,7 +20,7 @@
 Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em constante evolução.
 
 - 🎓 **Origem:** Atuo na área de Tecnologia da Informação/Educação no Paraná, aliando comunicação, disciplina e trabalho em equipe.
-- 💻 **Foco Atual:** Desenvolvimento Front-end / Full Stack (HTML, CSS, JavaScript, Angular e SQL).
+- 💻 **Foco Atual:** Desenvolvimento Front-end / Full Stack (HTML, CSS, JavaScript, Angular, SQL e Java Spring).
 - 🎯 **Meta Profissional:** Migrar/Avançar para o mercado de desenvolvimento de software, integrando o time de uma **empresa de tecnologia** para criar aplicações modernas, funcionais e de alto impacto.
 
 > 📊 *Indicadores da minha curva de aprendizado e evolução prática no desenvolvimento de software.*
@@ -69,11 +69,9 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 
 # 📈 Gráfico de Atividade
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafaelmorales1982&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafaelmorales1982&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de Atividade" />
+</p>
 
 ---
 
