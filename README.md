@@ -20,7 +20,7 @@
 Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em constante evolução.
 
 - 🎓 **Origem:** Atuo na área de Tecnologia da Informação/Educação no Paraná, aliando comunicação, disciplina e trabalho em equipe.
-- 💻 **Foco Atual:** Desenvolvimento Front-end / Full Stack (HTML, CSS, JavaScript, Angular, SQL e Java Spring).
+- 💻 **Foco Atual:** Desenvolvimento Front-end / Full Stack (HTML, CSS, JavaScript, React, SQL, NodeJS ).
 - 🎯 **Meta Profissional:** Migrar/Avançar para o mercado de desenvolvimento de software, integrando o time de uma **empresa de tecnologia** para criar aplicações modernas, funcionais e de alto impacto.
 
 > 📊 *Indicadores da minha curva de aprendizado e evolução prática no desenvolvimento de software.*
@@ -94,8 +94,8 @@ Sou **Professor PSS de Tecnologia do Estado do Paraná** e desenvolvedor web em 
 - ✅ HTML5 & CSS3 Avançado
 - ✅ Tailwind / Grid & Flexbox
 - 🔄 JavaScript ES6+ & DOM
-- 🔄 Angular
-- 🔄 Java
+- 🔄 React
+- 🔄 node JS
 - 🔄 Banco de Dados SQL
 - ⬜ TypeScript
 - ⬜ Docker & Deploy
