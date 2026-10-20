@@ -7,9 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+GitHub!;Professor+de+Tecnologia;HTML+%7C+CSS+%7C;JavaScript+%7C;SQL+%7C+Projetos+Web;Sempre+aprendendo+e+compartilhando+conhecimento!" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafaelmorales1982&style=for-the-badge&color=00c3ff" alt="Visualizações do Perfil"/>
-</p>
+
 
 </div>
 
